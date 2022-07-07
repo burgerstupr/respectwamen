@@ -12,7 +12,7 @@
   "author": "burgerstupr",
   "license": "Epic",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "request": "^2.88.0"
   }
 }
